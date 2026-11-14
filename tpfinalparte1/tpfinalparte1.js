@@ -1,3 +1,6 @@
+//VIDEO: https://youtu.be/3gIFFi1sqlA
+
+
 // fondos del camino pricipal de juego
 let imagen1;
 let imagen2;
@@ -320,3 +323,5 @@ function mousePressed() {
     pantalla = 411;
   }
 }
+
+//VIDEO: https://youtu.be/3gIFFi1sqlA
